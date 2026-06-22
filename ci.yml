@@ -30,4 +30,4 @@ jobs:
 
       - name: Pipeline exitoso
         run: |
-          echo "Integración continua ejecutada correctamente"
+          echo "Integración continua 2 ejecutada correctamente"
